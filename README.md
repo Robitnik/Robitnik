@@ -1,6 +1,6 @@
 #I'm Robitnik 👋
 
-Here’s a polished English bio + the rewritten “Next up” section you can drop into your profile README:
+
 
 ---
 
